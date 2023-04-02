@@ -19,4 +19,4 @@ The Jupyter Notebook is the original web application for creating and sharing co
 
 ## License
 
-<Project Name> is licensed under [MIT](https://choosealicense.com/licenses/mit/)
+Philippine-Residential-Power-Rates is licensed under [MIT](https://choosealicense.com/licenses/mit/)
